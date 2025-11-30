@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet Arınç Akyıldız</h1>
+<h1 align="center">Hi 👋, I'm Ahmet Arınç Akyıldız!</h1>
 <h3 align="center">🎓 Software Engineering Student @ Eastern Mediterranean University</h3>
 
 - 🌱 I’m currently learning **Data Science + Machine Learning**
