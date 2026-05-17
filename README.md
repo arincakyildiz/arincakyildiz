@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Ahmet Arınç Akyıldız!</h1>
 <h3 align="center">🎓 Software Engineering Student @ Eastern Mediterranean University</h3>
 
-- 🌱 I’m currently learning **Data Science + Machine Learning**
+- I’m currently learning **Data Science + Machine Learning**
 
-- 📫 How to reach me **ahmetarincakyildiz@gmail.com**
+- How to reach me **contact@arincakyildiz.com.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
